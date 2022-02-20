@@ -4,17 +4,10 @@
 </head>
 <body>
     <h2>Hello World!</h2>
-    <form action="serv" method="GET">
+    <form action="cars" method="GET">
         <input type="submit">
 
     </form>
 
-    <form action="sav" method="GET">
-        <input type="submit">
-    </form>
-
-    <form action="bird" method="GET">
-        <input type="submit">
-    </form>
 </body>
 </html>

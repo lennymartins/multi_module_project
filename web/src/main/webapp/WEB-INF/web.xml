@@ -7,31 +7,14 @@
   <display-name>Archetype Created Web Application</display-name>
   
   <servlet>
-    <servlet-name>serv</servlet-name>
-    <servlet-class>org.example.servlet.ServletTest</servlet-class>
+    <servlet-name>cars</servlet-name>
+    <servlet-class>org.example.servlet.CarsServlet</servlet-class>
   </servlet>
   <servlet-mapping>
-    <servlet-name>serv</servlet-name>
-    <url-pattern>/serv</url-pattern>
-  </servlet-mapping>
-  
-  <servlet>
-    <servlet-name>sav</servlet-name>
-    <servlet-class>org.example.servlet.SavingsServletTest</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>sav</servlet-name>
-    <url-pattern>/sav</url-pattern>
+    <servlet-name>cars</servlet-name>
+    <url-pattern>/cars</url-pattern>
   </servlet-mapping>
 
-  <servlet>
-    <servlet-name>bird</servlet-name>
-    <servlet-class>org.example.servlet.WeaverTest</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>bird</servlet-name>
-    <url-pattern>/bird</url-pattern>
-  </servlet-mapping>
   
   
   
