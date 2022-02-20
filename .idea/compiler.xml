@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ejb" />
+        <module name="ejb_long_range" />
         <module name="web" />
       </profile>
     </annotationProcessing>

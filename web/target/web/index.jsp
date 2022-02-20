@@ -12,5 +12,9 @@
     <form action="sav" method="GET">
         <input type="submit">
     </form>
+
+    <form action="bird" method="GET">
+        <input type="submit">
+    </form>
 </body>
 </html>

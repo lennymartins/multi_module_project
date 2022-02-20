@@ -23,6 +23,15 @@
     <servlet-name>sav</servlet-name>
     <url-pattern>/sav</url-pattern>
   </servlet-mapping>
+
+  <servlet>
+    <servlet-name>bird</servlet-name>
+    <servlet-class>org.example.servlet.WeaverTest</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>bird</servlet-name>
+    <url-pattern>/bird</url-pattern>
+  </servlet-mapping>
   
   
   

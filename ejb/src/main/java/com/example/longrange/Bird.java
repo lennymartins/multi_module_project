@@ -3,5 +3,7 @@ package com.example.longrange;
 import javax.ejb.Local;
 
 @Local
-public class Bird {
+public interface Bird {
+
+    public String getBird();
 }

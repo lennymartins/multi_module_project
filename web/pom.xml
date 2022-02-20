@@ -25,6 +25,12 @@
       <artifactId>ejb</artifactId>
       <version>1.0.0</version>
     </dependency>
+
+    <dependency>
+      <groupId>org.example</groupId>
+      <artifactId>ejb_long_range</artifactId>
+      <version>1.0.0</version>
+    </dependency>
   </dependencies>
 
 
