@@ -14,4 +14,16 @@
     <servlet-name>serv</servlet-name>
     <url-pattern>/serv</url-pattern>
   </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>sav</servlet-name>
+    <servlet-class>org.example.servlet.SavingsServletTest</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>sav</servlet-name>
+    <url-pattern>/sav</url-pattern>
+  </servlet-mapping>
+  
+  
+  
 </web-app>

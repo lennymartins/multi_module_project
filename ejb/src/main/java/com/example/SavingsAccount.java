@@ -2,10 +2,10 @@ package com.example;
 
 import javax.ejb.Stateless;
 
-@Stateless(name = "chk")
-public class ChequeAccount implements Account {
+@Stateless(name = "svn")
+public class SavingsAccount implements Account {
     @Override
     public String getString() {
-        return "string";
+        return "savings";
     }
 }
