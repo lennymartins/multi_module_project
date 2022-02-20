@@ -1,4 +1,6 @@
 com\example\Account.class
 com\example\SavingsAccount.class
 com\example\ChequeAccount.class
+com\example\remote\LocalCar.class
 com\example\longrange\Bird.class
+com\example\remote\RemoteCar.class
